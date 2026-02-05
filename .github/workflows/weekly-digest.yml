@@ -55,7 +55,7 @@ jobs:
           # Optional tweaks:
           # OPENAI_MODEL: gpt-5
           # MIN_SCORE_READ: "0.65"
-          # LOOKBACK_DAYS: "14"
+          # LOOKBACK_DAYS: "7"
         run: python digest.py
 
       - name: Commit digest.md
