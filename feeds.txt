@@ -1,3 +1,41 @@
+# general science & engineering
+Nature | http://www.nature.com/nature.rss
+Science | https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science
+Scientific Reports | https://www.nature.com/srep.rss
+PNAS (Engineering) | https://www.pnas.org/rss/engineering.xml
+PNAS (Applied Physical Sci) | https://www.pnas.org/rss/applied_physical_sciences.xml
+
+# heat transfer journals
+Int J Heat Mass Transfer | http://rss.sciencedirect.com/publication/science/00179310
+Applied Thermal Engineering | http://rss.sciencedirect.com/publication/science/13594311
+ASME J Heat Transfer | https://asmedigitalcollection.asme.org/heattransfer/rss
+Int J Thermal Sciences | http://rss.sciencedirect.com/publication/science/12900729
+Exp Thermal Fluid Sci | http://rss.sciencedirect.com/publication/science/08941777
+
+# fluid mechanics journals
+J Fluid Mechanics (JFM) | https://www.cambridge.org/core/rss/journal/journal-of-fluid-mechanics
+Physics of Fluids | https://pubs.aip.org/aip/pof/feed
+Physical Review Fluids | http://feeds.aps.org/rss/recent/PRFluids.xml
+Int J Heat & Fluid Flow | http://rss.sciencedirect.com/publication/science/0142727X
+Flow, Turbulence and Combustion | https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10494
+
+# computational & optimization journals
+J Computational Physics | http://rss.sciencedirect.com/publication/science/00219991
+Computers & Fluids | http://rss.sciencedirect.com/publication/science/00457930
+Comp Methods Applied Mech Eng | http://rss.sciencedirect.com/publication/science/00457825
+Engineering Applications of CFD | https://www.tandfonline.com/feed/rss/tcfd20
+
+# energy journals
+Energy | http://rss.sciencedirect.com/publication/science/03605442
+Applied Energy | http://rss.sciencedirect.com/publication/science/03062619
+Renewable Energy | http://rss.sciencedirect.com/publication/science/09601481
+
+# review journals
+Annual Rev Fluid Mech | https://www.annualreviews.org/action/showFeed?type=etoc&feed=rss&jc=fluid
+Progress in Energy/Combustion | http://rss.sciencedirect.com/publication/science/03601285
+Renewable Sustain Energy Rev | http://rss.sciencedirect.com/publication/science/13640321
+
+
 # general journals
 Nature | http://www.nature.com/nature/current_issue/rss
 Scientific Reports | https://www.nature.com/srep.rss
